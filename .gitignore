@@ -1,0 +1,5 @@
+# Игнорировать папку vendor
+/vendor/
+
+# Игнорировать файл src/sheets_api.json
+/src/sheets_api.json
