@@ -1,6 +1,8 @@
 <?php
 
-class googleSheets
+use Google\Service\Sheets\ValueRange;
+
+class googleSheetsClient
 {
     private $path = "src/sheets_api.json";
     private $spreadsheetId;
@@ -16,7 +18,7 @@ class googleSheets
     public function __construct($spreadsheetId)
     {
         $this->spreadsheetId = $spreadsheetId;
-        $this->initializeClient();
+        $this->initializeClient($this->spreadsheetId);
     }
 
     /**
@@ -73,9 +75,7 @@ class googleSheets
      */
     public function updateValues($range, $values)
     {
-        $body = new Google_Service_Sheets_ValueRange([
-            'values' => $values
-        ]);
+        $body = new ValueRange(['values' => $values]);
         return $this->service->spreadsheets_values->update(
             $this->spreadsheetId,
             $range,

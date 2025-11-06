@@ -1,5 +1,11 @@
 # Игнорировать папку vendor
 /vendor/
 
-# Игнорировать файл src/sheets_api.json
+# Игнорировать файл с токенами Google sheets
 /src/sheets_api.json
+
+# Игнорировать файл с доступами к AmoCrm и Google sheets
+/src/constants.json
+
+# Игнорировать файл с токенами AmoCrm
+TOKEN.txt

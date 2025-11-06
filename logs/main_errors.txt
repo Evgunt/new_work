@@ -1,0 +1,906 @@
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"hint":"Cannot decrypt the authorization code","title":"Некорректный запрос","type":"https://developers.amocrm.ru/v3/errors/OAuthProblemJson","status":400,"detail":"В запросе отсутствует ряд параметров или параметры невалидны"}
+Код ошибки:0
+    [time] => 05.11.2025 08:58:41
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"hint":"Cannot decrypt the authorization code","title":"Некорректный запрос","type":"https://developers.amocrm.ru/v3/errors/OAuthProblemJson","status":400,"detail":"В запросе отсутствует ряд параметров или параметры невалидны"}
+Код ошибки:0
+    [time] => 05.11.2025 08:59:14
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"hint":"Redirect URI is not associated with client","title":"Некорректный запрос","type":"https://developers.amocrm.ru/v3/errors/OAuthProblemJson","status":400,"detail":"В запросе отсутствует ряд параметров или параметры невалидны"}
+Код ошибки:0
+    [time] => 05.11.2025 10:32:27
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"hint":"Authorization code has expired","title":"Некорректный запрос","type":"https://developers.amocrm.ru/v3/errors/OAuthProblemJson","status":400,"detail":"В запросе отсутствует ряд параметров или параметры невалидны"}
+Код ошибки:0
+    [time] => 05.11.2025 10:32:40
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: file "src/sheets_api.json" does not exist
+Код ошибки:0
+    [time] => 05.11.2025 10:58:16
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.92",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.92",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.92"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 10:58:48
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.57",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.57",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.57"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:00:27
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.25",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.25",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.25"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:03:59
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.7",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.7",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.7"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:07:25
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values' (type.googleapis.com/google.protobuf.ListValue), \"Array\"",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values' (type.googleapis.com/google.protobuf.ListValue), \"Array\"",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values",
+            "description": "Invalid value at 'data.values' (type.googleapis.com/google.protobuf.ListValue), \"Array\""
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:08:12
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.99",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.99",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.99"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:08:34
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.38",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.38",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), 1.38"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 11:10:07
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 403,
+    "message": "The caller does not have permission",
+    "errors": [
+      {
+        "message": "The caller does not have permission",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ],
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+Код ошибки:403
+    [time] => 05.11.2025 11:15:09
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"errors":{"key":"with","detail":"Invalid with - leads,contacts"},"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid with parameter given."}
+Код ошибки:0
+    [time] => 05.11.2025 12:01:43
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 400 (Bad request). Response: {"errors":{"key":"with","detail":"Invalid with - leads,contacts"},"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid with parameter given."}
+Код ошибки:0
+    [time] => 05.11.2025 12:05:42
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), \"05.11.2025\"",
+    "errors": [
+      {
+        "message": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), \"05.11.2025\"",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid value at 'data.values[0]' (type.googleapis.com/google.protobuf.ListValue), \"05.11.2025\""
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 12:27:06
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Requested writing within range ['Лист1'!B2:B], but tried writing to column [C]",
+    "errors": [
+      {
+        "message": "Requested writing within range ['Лист1'!B2:B], but tried writing to column [C]",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 12:27:38
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"lead_status_changed\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_added\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"contact_added\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_updated\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_deleted\" at 'data.values[0]': Cannot find field.",
+    "errors": [
+      {
+        "message": "Invalid JSON payload received. Unknown name \"lead_status_changed\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_added\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"contact_added\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_updated\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"lead_deleted\" at 'data.values[0]': Cannot find field.",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"lead_status_changed\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"lead_added\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"contact_added\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"lead_updated\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"lead_deleted\" at 'data.values[0]': Cannot find field."
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 12:34:25
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\"\n  }\n  values {\n    string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n  }\n  values {\n    string_value: \"15\"\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\"\n  }\n  values {\n    string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n  }\n  values {\n    string_value: \"15\"\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 12:36:01
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    number_value: 0.0\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"27.11.21\"\n      }\n      values {\n        string_value: \"0\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    number_value: 0.0\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"27.11.21\"\n      }\n      values {\n        string_value: \"0\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:04:04
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 6.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 6.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:07:52
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Unable to parse range: Лист1!B2:С",
+    "errors": [
+      {
+        "message": "Unable to parse range: Лист1!B2:С",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:10:15
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201 \\321\\201\\320\\264\\320\\265\\320\\273\\320\\272\\320\\270 \\320\\270\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\"\n  }\n  values {\n    number_value: 3.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201 \\321\\201\\320\\264\\320\\265\\320\\273\\320\\272\\320\\270 \\320\\270\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\"\n  }\n  values {\n    number_value: 3.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:11:39
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    number_value: 0.0\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"05.11.2025\"\n      }\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    number_value: 0.0\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"05.11.2025\"\n      }\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:23:50
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        number_value: 0.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\\320\\277\\321\\200\\320\\270\\320\\262\\320\\265\\321\\202\"\n          }\n          values {\n            string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n          }\n          values {\n            string_value: \"167\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 1.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"16\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 2.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"17\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 3.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n          }\n          values {\n            string_value: \"18\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 4.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n          }\n          values {\n            string_value: \"15\"\n          }\n        }\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        number_value: 0.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\\320\\277\\321\\200\\320\\270\\320\\262\\320\\265\\321\\202\"\n          }\n          values {\n            string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n          }\n          values {\n            string_value: \"167\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 1.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"16\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 2.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"17\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 3.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n          }\n          values {\n            string_value: \"18\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 4.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n          }\n          values {\n            string_value: \"15\"\n          }\n        }\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:27:40
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        number_value: 0.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"05.11.2025\"\n          }\n          values {\n            string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n          }\n          values {\n            string_value: \"167\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 1.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"16\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 2.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"17\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 3.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n          }\n          values {\n            string_value: \"18\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 4.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n          }\n          values {\n            string_value: \"15\"\n          }\n        }\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        number_value: 0.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"05.11.2025\"\n          }\n          values {\n            string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n          }\n          values {\n            string_value: \"167\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 1.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"16\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 2.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n          }\n          values {\n            string_value: \"17\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 3.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n          }\n          values {\n            string_value: \"18\"\n          }\n        }\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        number_value: 4.0\n      }\n      values {\n        list_value {\n          values {\n            string_value: \"\"\n          }\n          values {\n            string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n          }\n          values {\n            string_value: \"15\"\n          }\n        }\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:30:06
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"16\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"17\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n      }\n      values {\n        string_value: \"18\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n      }\n      values {\n        string_value: \"15\"\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"16\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"17\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n      }\n      values {\n        string_value: \"18\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n      }\n      values {\n        string_value: \"15\"\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:32:47
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"16\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"17\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n      }\n      values {\n        string_value: \"18\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n      }\n      values {\n        string_value: \"15\"\n      }\n    }\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n      }\n      values {\n        string_value: \"167\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"16\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\230\\320\\267\\320\\274\\320\\265\\320\\275\\320\\265\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\275\\321\\202\\320\\260\\320\\272\\321\\202\\320\\260\"\n      }\n      values {\n        string_value: \"17\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\276\\320\\267\\320\\264\\320\\260\\320\\275\\320\\270\\320\\265 \\320\\272\\320\\276\\320\\274\\320\\277\\320\\260\\320\\275\\320\\270\\320\\270\"\n      }\n      values {\n        string_value: \"18\"\n      }\n    }\n  }\n  values {\n    list_value {\n      values {\n        string_value: \"\\320\\241\\320\\274\\320\\265\\320\\275\\320\\260 \\321\\201\\321\\202\\320\\260\\321\\202\\321\\203\\321\\201\\320\\260\"\n      }\n      values {\n        string_value: \"15\"\n      }\n    }\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:37:00
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:38:22
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:41:53
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 4.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 4.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:46:51
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 6.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 6.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 05.11.2025 13:48:00
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 3.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[1][0]: list_value \t {\n  values {\n    string_value: \"\\320\\241\\320\\264\\320\\265\\320\\273\\320\\272\\320\\260 \\320\\264\\320\\276\\320\\261\\320\\260\\320\\262\\320\\273\\320\\265\\320\\275\\320\\260\"\n  }\n  values {\n    number_value: 3.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 06.11.2025 08:02:37
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 06.11.2025 08:07:23
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    string_value: \"167\"\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 06.11.2025 08:14:06
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    number_value: 167.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    number_value: 167.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 06.11.2025 08:14:51
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: {
+  "error": {
+    "code": 400,
+    "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    number_value: 167.0\n  }\n}\n",
+    "errors": [
+      {
+        "message": "Invalid values[7][0]: list_value \t {\n  values {\n    string_value: \"\\320\\225\\321\\201\\321\\202\\321\\214\"\n  }\n  values {\n    number_value: 167.0\n  }\n}\n",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+Код ошибки:400
+    [time] => 06.11.2025 08:18:21
+)
+
+
+========================================================================================================================
+
+Array
+(
+    [data] => Ошибка: HTTP 401 (Unauthorized). Response: {"title":"Unauthorized","type":"https://httpstatus.es/401","status":401,"detail":"Неверный логин или пароль"}
+Код ошибки:0
+    [time] => 06.11.2025 10:43:12
+)
+
+
+========================================================================================================================
+

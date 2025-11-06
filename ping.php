@@ -8,21 +8,23 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
     exit();
 }
 
-
 require_once 'src/AmoCrmClient.php';
 require_once 'src/functions.php';
+require_once 'src/constants.php';
+require_once 'src/googleSheetsClient.php';
+require_once 'vendor/autoload.php';
 try {
-    $amoV4Client = new AmoCrmClient(SUB_DOMAIN, CLIENT_ID, CLIENT_SECRET, CODE, REDIRECT_URL);
+    $amoClient = new AmoCrmClient(SUB_DOMAIN, CLIENT_ID, CLIENT_SECRET, CODE, REDIRECT_URL);
     $startTime = microtime(true);
     $response = $amoClient->APIGet('leads');
     $endTime = microtime(true);
     $duration = $endTime - $startTime;
     $rounded = round($duration, 2);
 
-    $googleSheets = new googleSheets(SHEET_ID);
+    $googleSheets = new googleSheetsClient(SHEET_ID);
     // Обновляем данные
-    $googleSheets->updateValues(SHEET_NAME . '!E2', [$rounded]);
-    $googleSheets->updateValues(SHEET_NAME . '!F2', [date('d.m.Y H:i:s')]);
+    $googleSheets->updateValues(SHEET_NAME . '!E2', [[$rounded]]);
+    $googleSheets->updateValues(SHEET_NAME . '!F2', [[date('d.m.Y H:i:s')]]);
 } catch (Exception $ex) {
     http_response_code($ex->getCode());
     echo json_encode([

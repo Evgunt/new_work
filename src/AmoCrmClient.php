@@ -231,14 +231,14 @@ class AmoCrmClient
         $page = 1;
 
         $with = match ($entity) {
-            'leads' => 'contacts',
-            'contacts' => 'leads',
-            default => 'leads,contacts'
+            'leads' => ['contacts'],
+            'contacts' => ['leads'],
+            default => []
         };
 
         $params = [
             'limit' => 250,
-            'with' => $with
+            'with' => implode(',', $with)
         ];
 
         if ($customParams !== null) {
@@ -258,7 +258,7 @@ class AmoCrmClient
             }
 
             $page++;
-            usleep(250000);
+            sleep(1);
         } while (true);
 
         return $results;
